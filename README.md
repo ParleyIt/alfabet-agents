@@ -161,7 +161,7 @@ These subagents are automatically available when placed in `~/.claude/agents/` d
 
 ```bash
 cd ~/.claude
-git clone https://github.com/wshobson/agents.git
+git clone https://github.com/ParleyIt/alfabet-agents.git
 ```
 
 ## Usage
