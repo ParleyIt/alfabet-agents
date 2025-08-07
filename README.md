@@ -160,8 +160,7 @@ All 56 subagents are configured with specific Claude models based on task comple
 These subagents are automatically available when placed in `~/.claude/agents/` directory.
 
 ```bash
-cd ~/.claude
-git clone https://github.com/ParleyIt/alfabet-agents.git
+git clone https://github.com/ParleyIt/alfabet-agents.git ~/.claude/agents
 ```
 
 ## Usage
